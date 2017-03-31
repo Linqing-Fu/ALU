@@ -1,9 +1,9 @@
 # ALU
 
-**experiment of computer system**
+##experiment of computer system
 
 
-first experiment of building up a CPU:ALU
+###first experiment of building up a CPU:ALU
 
 ----
 
