@@ -1,11 +1,11 @@
 # ALU
 
-##experiment of computer system
+## experiment of computer system
 
 
-###first experiment of building up a CPU:ALU
+### first experiment of building up a CPU:ALU
 
 ----
 
-*realize five functions:& | + - slt
-*use 4-bits advanced add module
+* realize five functions:& | + - slt
+* use 4-bits advanced add module
